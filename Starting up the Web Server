@@ -1,0 +1,9 @@
+Starting up the Web Server
+
+You actually have a functional Rails application already. To see it, you need to start a web server on your development machine. You can do this by running the following in the blog directory:
+
+
+$ bin/rails server
+ 
+
+If you are using Windows, you have to pass the scripts under the bin folder directly to the Ruby interpreter e.g. ruby bin\rails server.
